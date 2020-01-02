@@ -1,5 +1,4 @@
-﻿  stdafx.cpp
-  Huffman encoding.cpp
+﻿  Huffman encoding.cpp
 c:\users\user\source\repos\xoxoxaxa\huffman encoding\huffman encoding.cpp(69): warning C4018: '<': signed/unsigned mismatch
 c:\users\user\source\repos\xoxoxaxa\huffman encoding\huffman encoding.cpp(73): warning C4018: '<': signed/unsigned mismatch
 c:\users\user\source\repos\xoxoxaxa\huffman encoding\huffman encoding.cpp(90): warning C4018: '<': signed/unsigned mismatch
